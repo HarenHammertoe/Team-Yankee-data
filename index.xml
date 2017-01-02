@@ -2,9 +2,9 @@
 <dataIndex battleScribeVersion="2.00" name="Team Yankee" indexUrl="https://github.com/HarenHammertoe/Team-Yankee-data/raw/master/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
   <repositoryUrls/>
   <dataIndexEntries>
-    <dataIndexEntry filePath="Team_Yankee.gstz" dataType="gamesystem" dataId="334b-deed-8ea5-13de" dataName="Team Yankee" dataBattleScribeVersion="2.00" dataRevision="2"/>
+    <dataIndexEntry filePath="Team_Yankee.gstz" dataType="gamesystem" dataId="334b-deed-8ea5-13de" dataName="Team Yankee" dataBattleScribeVersion="2.00" dataRevision="3"/>
     <dataIndexEntry filePath="Warsaw Pact - Russia.catz" dataType="catalogue" dataId="ed44-8082-6f5a-822a" dataName="Russian Forces" dataBattleScribeVersion="2.00" dataRevision="3"/>
-    <dataIndexEntry filePath="Nato - Britain.catz" dataType="catalogue" dataId="3a54-7323-5510-5250" dataName="British Forces" dataBattleScribeVersion="2.00" dataRevision="3"/>
+    <dataIndexEntry filePath="Nato - Britain.catz" dataType="catalogue" dataId="3a54-7323-5510-5250" dataName="British Forces" dataBattleScribeVersion="2.00" dataRevision="4"/>
     <dataIndexEntry filePath="Nato - W Germany.catz" dataType="catalogue" dataId="7c90-6072-5006-69e5" dataName="West German Forces" dataBattleScribeVersion="2.00" dataRevision="1"/>
     <dataIndexEntry filePath="Nato - USA.catz" dataType="catalogue" dataId="e2ab-a41e-dc70-1297" dataName="US Forces" dataBattleScribeVersion="2.00" dataRevision="2"/>
   </dataIndexEntries>
